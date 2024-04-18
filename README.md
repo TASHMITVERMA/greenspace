@@ -1,5 +1,5 @@
 # greenspace locator app
-This is my app created using android studio and java.
+This is my app created using android studio and java,the app uses sql database to fetch data.
 ![image](https://github.com/TASHMITVERMA/greenspace/assets/103169920/a865eb50-6a3c-40c0-b9a7-0e83d4fa18eb)
 ![image](https://github.com/TASHMITVERMA/greenspace/assets/103169920/cfc977f8-e5d2-4d2e-a283-ca6daa171691)
 ![image](https://github.com/TASHMITVERMA/greenspace/assets/103169920/364eb0fe-1936-45a6-9b11-8a5116b319de)
