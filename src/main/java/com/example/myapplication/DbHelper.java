@@ -10,7 +10,7 @@ import android.util.Log;
 
 public class DbHelper extends SQLiteOpenHelper {
 
-    private static final String DATABASE_NAME = "donation_app.db";
+    private static final String DATABASE_NAME = "greenspace.db";
     private static final int DATABASE_VERSION = 1;
 
     private static final String CREATE_TABLE_USERS = "CREATE TABLE users (" +
